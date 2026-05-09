@@ -1,2 +1,2 @@
-# app_comunidade
+# App Comunidade.
 Um app com foco em administração de membros em grupos específicos. Ex: igrejas, grupos de trabalho, grupos de amigos.
